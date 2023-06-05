@@ -1,2 +1,3 @@
 # AgenciaDeViajes
-Proyecto final de el master de java viewnext
+Proyecto final de el master de java viewnext , el cual se trata de gestionar una agencia de viajes, utilizando Spring Boot , Java 8, MySQL Workbench Y Postman,ademas utilizamos Java Doc y Swagger para comentar nuestro proyecto y de esta manera sea lo mas profesional posible, hay que tener en cuenta que si quereis probar o reutilizar el codigo del proyecto , hay que prestar atencion a la version de Spring Boot para que pueda ser compatible con Swagger, fue una de las dificultades que me encontre, en la realizacion de mi proyecto aprendi bastante y pude poner a prueba los conocimientos que adquiri en el master.
+La base de datos que utilice tiene de nombre BDagenciadeviajes y las tablas son hoteles,vuelos,reservas, tenerlo en cuenta a la hora realizar pruebas.
